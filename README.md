@@ -1,4 +1,4 @@
-### 🎯 **Hello, I'm Peter Chen!**  
+### 🎯 **Hello, I'm Rudy Peter Agung Chendra!**  
 #### Data Scientist & ML Engineer | Passionate about AI and Analytics  
 
 <div align="center">
