@@ -1,5 +1,4 @@
 ### 🎯 **Hello, I'm Rudy Peter Agung Chendra!**  
-#### Data Scientist & ML Engineer | Passionate about AI and Analytics  
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist+%7C+ML+Engineer;Passionate+about+AI+%26+Analytics;Always+learning+and+exploring!&center=true&width=500&height=45&color=2596be">
