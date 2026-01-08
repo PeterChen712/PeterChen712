@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+### 🎯 **Hello, I'm Rudy Peter Agung Chendra!**  
+
+>>>>>>> a7f8dc24a7f261d2260829e5b5beda140f65ff69
 <div align="center">
   <h1 style="border-bottom: none;">Rudy Peter Agung Chendra</h1>
 
