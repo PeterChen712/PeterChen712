@@ -1,58 +1,52 @@
-### 🎯 **Hello, I'm Rudy Peter Agung Chendra!**  
-#### Data Scientist & ML Engineer | Passionate about AI and Analytics  
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist+%7C+ML+Engineer;Passionate+about+AI+%26+Analytics;Always+learning+and+exploring!&center=true&width=500&height=45&color=2596be">
+  <h1 style="border-bottom: none;">Rudy Peter Agung Chendra</h1>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Full-Stack+Developer;Applied+AI+Enthusiast" alt="Typing SVG" />
+  </a>
+
+  <h3>Information Systems Student at Hasanuddin University</h3>
+  
+  <p>
+    Specializing in building intelligent systems using <b>Data Science</b> technologies<br>
+    and developing robust web applications across multiple frameworks.
+  </p>
+
+  <br>
+
+  <a href="https://rudy-peter-agung-chendra.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rudy-peter-agung-chendra-04231029a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rudypetere@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
----
+<br>
+<hr>
 
-## 📊 **About Me**  
+### Technical Proficiency
 
-🔹 Passionate about turning complex data into **actionable insights**  
-🔹 Experienced in **machine learning**, **deep learning**, and **MLOps**  
-🔹 Enjoys solving **real-world problems** using data-driven approaches  
-🔹 Open to **collaborating** on open-source AI & data science projects  
+| Domain | Technology Stack |
+| :--- | :--- |
+| **Data Science & AI** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| **Web Engineering** | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
-💡 *Ask me about:* Data Analysis, Machine Learning, Statistical Modeling, and Data Visualization  
+<br>
+<hr>
 
----
+### GitHub Analytics
 
-## ⚙️ **Languages & Tools**  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PeterChen712&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000" height="160px" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterChen712&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000" height="160px" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
-
-
----
-
-## 📈 **GitHub Stats**  
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PeterChen712&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-</p>
-
-
----
-
-🚀 *Let's connect and collaborate on exciting projects!* 😃
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterChen712&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
