@@ -42,11 +42,11 @@
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeterChen712&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000" height="160px" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PeterChen712&theme=tokyonight" height="160px" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterChen712&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000" height="160px" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PeterChen712&theme=tokyonight" height="160px" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterChen712&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PeterChen712&theme=tokyo-night" alt="Activity Graph" />
 </div>
